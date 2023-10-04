@@ -1,0 +1,14 @@
+#background_image1 {
+    background-image: url('Chengdu.PNG');
+    background-size: cover;
+}
+
+#background_image2 {
+    background-image: url('mawangzi.PNG');
+    background-size: cover;
+}
+
+#background_image3 {
+    background-image: url('footer.png');
+    background-size: cover;
+}
