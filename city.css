@@ -7,14 +7,26 @@ h1 {
     color: hsl(82, 42%, 15%);
 }
 
-h2 {
+#color_p {
     color: hsl(82, 42%, 15%);
 }
 
 .colorful-text {
-    color: #874141
+    color: #2E3A16;
+}
+
+h2 {
+    color: #874141;
 }
 
 .color_rgb  {
-    background-color: rgb(251, 247, 241);
+    background-color: rgb(237,238,225);
+}
+
+span {
+    color: #2E3A16;
+  }
+
+.color_tripbg { background-color: rgb(237,238,225);
+
 }
