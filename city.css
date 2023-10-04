@@ -1,14 +1,12 @@
-#background_image1 {
+#background_image {
     background-image: url('Chengdu.PNG');
     background-size: cover;
 }
 
-#background_image2 {
-    background-image: url('mawangzi.PNG');
-    background-size: cover;
+.colorful-text {
+    color: #b36262
 }
 
-#background_image3 {
-    background-image: url('footer.png');
-    background-size: cover;
+.color_rgb  {
+    background-color: rgb(251, 244, 232);
 }
