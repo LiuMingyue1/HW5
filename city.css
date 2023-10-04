@@ -18,12 +18,18 @@ h1 {
 .colorful-text {
     color: #2E3A16;
 }
-
+#article1 {
+    border: 2px solid black;
+}
 h2 {
     color: #874141;
 }
 
-
+#food {
+    border: 2px solid #fff68f;
+    padding: 20px;
+    margin: 5px;
+}
 
 .form{
     background-color: Beige;
