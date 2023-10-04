@@ -7,6 +7,10 @@ h1 {
     color: hsl(82, 42%, 15%);
 }
 
+.color_rgb  {
+    background-color: rgb(237,238,225);
+}
+
 #color_p {
     color: hsl(82, 42%, 15%);
 }
@@ -19,14 +23,25 @@ h2 {
     color: #874141;
 }
 
-.color_rgb  {
-    background-color: rgb(237,238,225);
+
+
+.form{
+    background-color: Beige;
+    padding: 20px;
+    margin: 10px;
+}
+
+.color_tripbg { background-color: rgb(237,238,225);
+
 }
 
 span {
     color: #2E3A16;
   }
 
-.color_tripbg { background-color: rgb(237,238,225);
-
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #87a96b;
+    color: #fff;
 }
