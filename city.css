@@ -3,6 +3,14 @@
     background-size: cover;
 }
 
+h1 {
+    color: hsl(82, 42%, 15%);
+}
+
+h2 {
+    color: hsl(82, 42%, 15%);
+}
+
 .colorful-text {
     color: #874141
 }
