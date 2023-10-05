@@ -29,12 +29,6 @@ h2 {
     margin: 5px;
 }
 
-.form{
-    background-color: Beige;
-    padding: 20px;
-    margin: 10px;
-}
-
 .color_tripbg { background-color: rgb(237,238,225);
 
 }
@@ -44,7 +38,7 @@ span {
   }
 
 footer {
-    
+    text-align: center;
     padding: 10px;
     background-color: #87a96b;
     color: #fff;
