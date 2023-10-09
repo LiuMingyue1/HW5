@@ -1,0 +1,45 @@
+#background_image {
+    background-image: url('Chengdu.PNG');
+    background-size: cover;
+}
+
+h1 {
+    color: hsl(82, 42%, 15%);
+}
+
+.color_rgb  {
+    background-color: rgb(237,238,225);
+}
+
+#color_p {
+    color: hsl(82, 42%, 15%);
+}
+
+.colorful-text {
+    color: #2E3A16;
+}
+
+h2 {
+    color: #874141;
+}
+
+#food {
+    border: 2px solid #fff68f;
+    padding: 20px;
+    margin: 5px;
+}
+
+.color_tripbg { background-color: rgb(237,238,225);
+
+}
+
+span {
+    color: #2E3A16;
+  }
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #87a96b;
+    color: #fff;
+}
